@@ -5,10 +5,10 @@
 - 31.12.1985.
 - Hrodno
 
-<h2>Objective:</h2>
+# Objective:
 web-developer
 
-<h2> About yourself:</h2>
+# About yourself:
 * I can work in a team/in a large team/emotionally charge the team for a positive (since 2009, I worked in an organization that was subordinate to more than 15 branches in the region; from the age of 10, I played volleyball, was a captain in the university team (1 adult category));
 * quickly learn and teach others (since 2009, she has passed a professional path from a commodity specialist of the wholesale base to a leading economist of the administration of the Grodno region);
 * I know how to defend my opinion, calmly accept constructive criticism;
