@@ -31,6 +31,7 @@ Educational institution "Belarusian Trade and Economic University of Consumer Co
 * Git
 
 # Code examples: 
+* Java
 ```Java
 public class Task {
     public static void main(String[] args) {
